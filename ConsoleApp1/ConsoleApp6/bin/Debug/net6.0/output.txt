@@ -1,0 +1,5 @@
+222802005, Mustafa Alp Yanıkoğlu
+1. Sonuç: 0 1 2 3 4
+
+Total distance = 3
+Programın çalışma süresi: 4,6511049 saniye
