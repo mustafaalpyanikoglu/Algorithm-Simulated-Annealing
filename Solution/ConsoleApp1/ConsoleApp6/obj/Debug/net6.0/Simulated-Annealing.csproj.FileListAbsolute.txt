@@ -1,0 +1,34 @@
+C:\Users\malpy\Desktop\Algorithm-Simulated-Annealing\ConsoleApp1\ConsoleApp6\bin\Debug\net6.0\Simulated-Annealing.exe
+C:\Users\malpy\Desktop\Algorithm-Simulated-Annealing\ConsoleApp1\ConsoleApp6\bin\Debug\net6.0\Simulated-Annealing.deps.json
+C:\Users\malpy\Desktop\Algorithm-Simulated-Annealing\ConsoleApp1\ConsoleApp6\bin\Debug\net6.0\Simulated-Annealing.runtimeconfig.json
+C:\Users\malpy\Desktop\Algorithm-Simulated-Annealing\ConsoleApp1\ConsoleApp6\bin\Debug\net6.0\Simulated-Annealing.dll
+C:\Users\malpy\Desktop\Algorithm-Simulated-Annealing\ConsoleApp1\ConsoleApp6\bin\Debug\net6.0\Simulated-Annealing.pdb
+C:\Users\malpy\Desktop\Algorithm-Simulated-Annealing\ConsoleApp1\ConsoleApp6\bin\Debug\net6.0\NetTopologySuite.dll
+C:\Users\malpy\Desktop\Algorithm-Simulated-Annealing\ConsoleApp1\ConsoleApp6\obj\Debug\net6.0\Simulated-Annealing.csproj.AssemblyReference.cache
+C:\Users\malpy\Desktop\Algorithm-Simulated-Annealing\ConsoleApp1\ConsoleApp6\obj\Debug\net6.0\Simulated-Annealing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malpy\Desktop\Algorithm-Simulated-Annealing\ConsoleApp1\ConsoleApp6\obj\Debug\net6.0\Simulated-Annealing.AssemblyInfoInputs.cache
+C:\Users\malpy\Desktop\Algorithm-Simulated-Annealing\ConsoleApp1\ConsoleApp6\obj\Debug\net6.0\Simulated-Annealing.AssemblyInfo.cs
+C:\Users\malpy\Desktop\Algorithm-Simulated-Annealing\ConsoleApp1\ConsoleApp6\obj\Debug\net6.0\Simulated-Annealing.csproj.CoreCompileInputs.cache
+C:\Users\malpy\Desktop\Algorithm-Simulated-Annealing\ConsoleApp1\ConsoleApp6\obj\Debug\net6.0\Simulated-Annealing.csproj.CopyComplete
+C:\Users\malpy\Desktop\Algorithm-Simulated-Annealing\ConsoleApp1\ConsoleApp6\obj\Debug\net6.0\Simulated-Annealing.dll
+C:\Users\malpy\Desktop\Algorithm-Simulated-Annealing\ConsoleApp1\ConsoleApp6\obj\Debug\net6.0\refint\Simulated-Annealing.dll
+C:\Users\malpy\Desktop\Algorithm-Simulated-Annealing\ConsoleApp1\ConsoleApp6\obj\Debug\net6.0\Simulated-Annealing.pdb
+C:\Users\malpy\Desktop\Algorithm-Simulated-Annealing\ConsoleApp1\ConsoleApp6\obj\Debug\net6.0\Simulated-Annealing.genruntimeconfig.cache
+C:\Users\malpy\Desktop\Algorithm-Simulated-Annealing\ConsoleApp1\ConsoleApp6\obj\Debug\net6.0\ref\Simulated-Annealing.dll
+C:\Users\malpy\Desktop\Yeni klasör (3)\Algorithm-Simulated-Annealing\ConsoleApp1\ConsoleApp6\bin\Debug\net6.0\Simulated-Annealing.exe
+C:\Users\malpy\Desktop\Yeni klasör (3)\Algorithm-Simulated-Annealing\ConsoleApp1\ConsoleApp6\bin\Debug\net6.0\Simulated-Annealing.deps.json
+C:\Users\malpy\Desktop\Yeni klasör (3)\Algorithm-Simulated-Annealing\ConsoleApp1\ConsoleApp6\bin\Debug\net6.0\Simulated-Annealing.runtimeconfig.json
+C:\Users\malpy\Desktop\Yeni klasör (3)\Algorithm-Simulated-Annealing\ConsoleApp1\ConsoleApp6\bin\Debug\net6.0\Simulated-Annealing.dll
+C:\Users\malpy\Desktop\Yeni klasör (3)\Algorithm-Simulated-Annealing\ConsoleApp1\ConsoleApp6\bin\Debug\net6.0\Simulated-Annealing.pdb
+C:\Users\malpy\Desktop\Yeni klasör (3)\Algorithm-Simulated-Annealing\ConsoleApp1\ConsoleApp6\bin\Debug\net6.0\NetTopologySuite.dll
+C:\Users\malpy\Desktop\Yeni klasör (3)\Algorithm-Simulated-Annealing\ConsoleApp1\ConsoleApp6\obj\Debug\net6.0\Simulated-Annealing.csproj.AssemblyReference.cache
+C:\Users\malpy\Desktop\Yeni klasör (3)\Algorithm-Simulated-Annealing\ConsoleApp1\ConsoleApp6\obj\Debug\net6.0\Simulated-Annealing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malpy\Desktop\Yeni klasör (3)\Algorithm-Simulated-Annealing\ConsoleApp1\ConsoleApp6\obj\Debug\net6.0\Simulated-Annealing.AssemblyInfoInputs.cache
+C:\Users\malpy\Desktop\Yeni klasör (3)\Algorithm-Simulated-Annealing\ConsoleApp1\ConsoleApp6\obj\Debug\net6.0\Simulated-Annealing.AssemblyInfo.cs
+C:\Users\malpy\Desktop\Yeni klasör (3)\Algorithm-Simulated-Annealing\ConsoleApp1\ConsoleApp6\obj\Debug\net6.0\Simulated-Annealing.csproj.CoreCompileInputs.cache
+C:\Users\malpy\Desktop\Yeni klasör (3)\Algorithm-Simulated-Annealing\ConsoleApp1\ConsoleApp6\obj\Debug\net6.0\Simulated-Annealing.csproj.CopyComplete
+C:\Users\malpy\Desktop\Yeni klasör (3)\Algorithm-Simulated-Annealing\ConsoleApp1\ConsoleApp6\obj\Debug\net6.0\Simulated-Annealing.dll
+C:\Users\malpy\Desktop\Yeni klasör (3)\Algorithm-Simulated-Annealing\ConsoleApp1\ConsoleApp6\obj\Debug\net6.0\refint\Simulated-Annealing.dll
+C:\Users\malpy\Desktop\Yeni klasör (3)\Algorithm-Simulated-Annealing\ConsoleApp1\ConsoleApp6\obj\Debug\net6.0\Simulated-Annealing.pdb
+C:\Users\malpy\Desktop\Yeni klasör (3)\Algorithm-Simulated-Annealing\ConsoleApp1\ConsoleApp6\obj\Debug\net6.0\Simulated-Annealing.genruntimeconfig.cache
+C:\Users\malpy\Desktop\Yeni klasör (3)\Algorithm-Simulated-Annealing\ConsoleApp1\ConsoleApp6\obj\Debug\net6.0\ref\Simulated-Annealing.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fMkHKwQtPzE+8OwgNfacOtVxc5zsPHXS5iVnmdSm0hHvFGsXOT6HNzwddN/DxmPFxbLONyPy+A8R6YtWhAyteA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\malpy\\Desktop\\Yeni klasör (3)\\Algorithm-Simulated-Annealing\\Solution\\ConsoleApp1\\ConsoleApp6\\Simulated-Annealing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\malpy\\.nuget\\packages\\nettopologysuite\\2.5.0\\nettopologysuite.2.5.0.nupkg.sha512",
+    "C:\\Users\\malpy\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
